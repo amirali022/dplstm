@@ -10,3 +10,10 @@
 #### Libraries
 
 - pandas
+- sklearn
+
+#### Notebooks
+
+1. browse_data_and_features
+	- examine and analysis input data
+	- examine some features such as tf-idf & bow
