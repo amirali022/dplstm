@@ -20,3 +20,5 @@
 	- examine some features such as tf-idf & bow
 2. sentiment_analysis
 	- calculate sentiment scores (compound, negative, neutral, positive) of news title using VADER package
+3. data_process
+	- concat all news sources sentiment data with S&P500 index price
