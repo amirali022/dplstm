@@ -22,3 +22,5 @@
 	- calculate sentiment scores (compound, negative, neutral, positive) of news title using VADER package
 3. data_process
 	- concat all news sources sentiment data with S&P500 index price
+4. lstm_without_news_on_sp500
+	- training lstm with only S&P500 historical data
