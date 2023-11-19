@@ -18,14 +18,14 @@
 
 #### Notebooks
 
-1. browse_data_and_features
+1. [Browse Data and Features](src/01_browse_data_and_features.ipynb)
 	- examine and analysis input data
 	- examine some features such as tf-idf & bow
-2. sentiment_analysis
+2. [Sentiment Analysis](src/02_sentiment_analysis.ipynb)
 	- calculate sentiment scores (compound, negative, neutral, positive) of news title using VADER package
-3. data_process
+3. [Data Process](src/03_data_process.ipynb)
 	- concat all news sources sentiment data with S&P500 index price
-4. lstm_without_news_on_sp500
+4. [LSTM without news on S&P500](src/04_lstm_without_news_on_sp500.ipynb)
 	- training lstm with only S&P500 historical data
-5. lstm_with_news_on_sp500
+5. [LSTM with news on S&P500](src/05_lstm_with_news_on_sp500.ipynb)
 	- training lstm with S&P historical data and news compound sentiment score
