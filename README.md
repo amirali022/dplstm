@@ -9,9 +9,12 @@
 
 #### Libraries
 
+- numpy
 - pandas
 - sklearn
 - nltk ( + vader_lexicon )
+- tensorflow
+- matplotlib
 
 #### Notebooks
 
