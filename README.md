@@ -28,4 +28,6 @@
 4. [LSTM without news on S&P500](src/04_lstm_without_news_on_sp500.ipynb)
 	- training lstm with only S&P500 historical data
 5. [LSTM with news on S&P500](src/05_lstm_with_news_on_sp500.ipynb)
-	- training lstm with S&P historical data and news compound sentiment score
+	- training lstm with S&P500 historical data and news compound sentiment score
+6. [DP-LSTM](src/06_dp_lstm.ipynb)
+	- predicting stock price using DP-LSTM method with news compound sentiment score and S&P500 historical data
