@@ -27,3 +27,5 @@
 	- concat all news sources sentiment data with S&P500 index price
 4. lstm_without_news_on_sp500
 	- training lstm with only S&P500 historical data
+5. lstm_with_news_on_sp500
+	- training lstm with S&P historical data and news compound sentiment score
